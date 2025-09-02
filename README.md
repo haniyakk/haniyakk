@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Haniya</h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h1>Hi, I'm Haniya</h1>
+    <h3>A passionate student, who's eager to jump into the real world</h3>
+  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZtOXRocHR1bTRldHZ4ZXA0cm5wNmRqZnp5MGxvcHZ5aHVwd3hpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQGKgpUT7jaGuGKzC8/giphy.gif" width="100px"/>
+</div>
 <h3 align="center">✨ CS Student • Dev in Progress • Tech Explorer ✨</h3>
 <p align="center">🌱 Learning Git & UI/UX <br> 🔮 Future goals: Exploring Cybersecurity & Quantum Computing</p>
 
+## My Skill and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,visualstudio,vscode,html,css,js,figma&theme=light)](https://skillicons.dev)
 
 ## My Github stats
 
