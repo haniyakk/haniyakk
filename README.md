@@ -21,10 +21,11 @@
 </a>
 
 <br><br>
+<!--
 <p align="left">
     <img width="470" src="https://github-readme-streak-stats.herokuapp.com?user=haniyakk&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="haniyakk streak stats"/>
 </p>
-
+-->
   <p align="left">
   <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniyakk&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="haniyakk top languages"/>
 </p>
